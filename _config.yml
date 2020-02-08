@@ -1,14 +1,14 @@
-title: Security and Privacy Conference Deadlines
+title: S&P, Network Measurements and Networking Conference Deadlines
 description: Countdowns to top Security and Privacy conference deadlines.
-author: Bogdan Kulynych
+author: Bogdan Kulynych (extended by Jens Hiller)
 
-domain: "sec-deadlines.github.io"
-baseurl: ""
+domain: "https://jenshiller.github.io"
+baseurl: "https://jenshiller.github.io/conf-deadlines.github.io/"
 
-twitter_username: hiddenmarkov
-github_username: sec-deadlines
-github_repo: sec-deadlines
-ga_id: UA-104921371-1
+twitter_username: jens_hiller
+github_username: jenshiller
+github_repo: conf-deadlines.github.io
+ga_id:
 
 markdown: kramdown
 
