@@ -5,3 +5,9 @@
   tag: PRIV
 - name: Crypto
   tag: CRYPTO
+- name: Measurements
+  tag: MEAS
+- name: IoT
+  tag: IOT
+- name: Networking
+  tag: NET

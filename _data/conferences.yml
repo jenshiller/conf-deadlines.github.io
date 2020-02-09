@@ -281,7 +281,7 @@
   timezone: America/Los_Angeles
   date: October 21-23
   place: Amsterdam, The Netherlands
-  tags: SEC
+  tags: [SEC, MEAS]
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
@@ -347,3 +347,121 @@
   date: "June 24-26"
   place: Zug, Switzerland
   tags: [SEC, PRIV, CRYPTO]
+
+
+# Conferences added by Jens
+
+# Already above:
+# S&P, Usenix Security, NDSS, CCS, Euro S&P, PETS, IMC, ACSAC, ESORICS, WiSec, WPES, FC, SOUPS
+
+- name: PAM
+  description: Passive and Active Measurements
+  year: 2020
+  link: https://pam2020.cs.uoregon.edu/
+  deadline: "2019-11-01 23:59"
+  timezone: America/Los_Angeles
+  date: "March 30-31"
+  place: Oregon, USA
+  tags: [SEC, MEAS, NET]
+
+- name: TMA
+  description: Network Traffic Measurement and Analysis Conference
+  year: 2020
+  link: https://tma.ifip.org/2020/
+  deadline: "2019-02-17 23:59"
+  timezone: America/Los_Angeles
+  date: "June 10-12"
+  place: Berlin, Germany
+  tags: [SEC, MEAS, NET]
+
+- name: ICNP
+  description: IEEE International Conference on Network Protocols
+  year: 2020
+  link: https://icnp20.cs.ucr.edu/
+  deadline: "2020-05-26 23:59"
+  timezone: America/Los_Angeles
+  date: "October 13-16"
+  place: Madrid, Spain
+  tags: [SEC, NET]
+
+- name: IEEE CNS
+  description: IEEE Conference on Communications and Network Security
+  year: 2020
+  link: https://cns2020.ieee-cns.org/
+  deadline: "2020-02-09 23:59"
+  timezone: America/Los_Angeles
+  date: "29 June - 1 July 2020"
+  place: Avignon, France
+  tags: [SEC]
+
+- name: LCN
+  description: Local Computer Networks
+  year: 2020
+  link: https://www.ieeelcn.org/
+  deadline: "2020-06-05 23:59"
+  timezone: America/Los_Angeles
+  date: "November 16-19"
+  place: Sydney, Australia
+  tags: [SEC, NET]
+
+- name: CODASPY
+  description: ACM Conference on Data and Application Security and Privacy
+  year: 2020
+  link: http://www.codaspy.org/2020/
+  deadline: "2019-09-23 23:59"
+  timezone: Etc/GTM+12
+  date: "March 16 - 18"
+  place: New Orleans, LA, USA
+  tags: [SEC]
+
+- name: IPSN
+  description: Information Processing in Sensor Networks
+  year: 2020
+  link: https://ipsn.acm.org/2020/
+  deadline: "2019-10-23 23:59"
+  timezone: America/Los_Angeles
+  date: "April 21-24"
+  place: Sydney, Australia
+  tags: [SEC, IOT]
+
+- name: SenSys
+  description: ACM Conference on Embedded Networked Sensor Systems
+  year: 2020
+  link: http://sensys.acm.org/2020/index.html
+  deadline: "2020-03-27 23:59"
+  timezone: Etc/GMT+12
+  date: "November 16-19"
+  place: Yokohama, Japan
+  tags: [SEC, IOT]
+
+- name: EWSN
+  description: International Conference on Embedded Wireless Systems and Networks
+  year: 2020
+  link: https://ewsn2020.conf.citi-lab.fr/
+  deadline: "2019-09-28 23:59"
+  timezone: Etc/GTM+12
+  date: "February 17-19"
+  place: Lyon, France
+  tags: [SEC, IOT]
+
+- name: CoNEXT
+  description: International Conference on emerging Networking EXperiments and Technologies
+  year: 2019
+  link: https://conferences2.sigcomm.org/co-next/2019/#!/home
+  deadline: "2019-06-26 18:00"
+  timezone: Etc/GMT+4
+  date: "December 10-13,"
+  place: Florida, USA
+  tags: [SEC, NET]
+
+- name: IETF ANRW
+  description: Applied Networking Research Workshop
+  year: 2020
+  link: https://irtf.org/anrw/2020/
+  deadline: "2020-04-10 23:59"
+  timezone: America/Los_Angeles
+  date: "July 27"
+  place: Madrid, Spain
+  tags: [SEC, MEAS, NET]
+
+  
