@@ -82,12 +82,12 @@
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
-  year: 2019
-  link: https://esorics2019.uni.lu/
-  deadline: "2019-04-29 23:59"
-  timezone: Etc/UTC-11
-  date: September 23-27
-  place: Luxembourg
+  year: 2020
+  link: http://esorics2020.sccs.surrey.ac.uk/
+  deadline: "2020-04-03 23:59"
+  timezone: Etc/GMT+12
+  date: September 14-18
+  place: Guildford, Surrey, UK
   tags: [SEC, PRIV]
 
 - name: WiSec
