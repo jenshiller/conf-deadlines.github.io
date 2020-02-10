@@ -454,6 +454,16 @@
   place: Florida, USA
   tags: [SEC, NET]
 
+- name: SIGCOMM
+  description: Annual conference of the ACM Special Interest Group on Data Communication 
+  year: 2020
+  link: http://conferences.sigcomm.org/sigcomm/2020/
+  deadline: "2020-02-07 23:59"
+  timezone: America/Los_Angeles
+  date: "August 10-14"
+  place: New York City, USA
+  tags: NET
+
 - name: Usenix ATC
   description: USENIX Annual Technical Conference
   year: 2020
