@@ -454,6 +454,16 @@
   place: Florida, USA
   tags: [SEC, NET]
 
+- name: Usenix ATC
+  description: USENIX Annual Technical Conference
+  year: 2020
+  link: https://www.usenix.org/conference/atc20
+  deadline: "2020-01-15 23:59"
+  timezone: America/Los_Angeles
+  date: "July 15–17"
+  place: Boston, MA, USA
+  tags: [NET]
+
 - name: IETF ANRW
   description: Applied Networking Research Workshop
   year: 2020
